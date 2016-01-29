@@ -33,3 +33,8 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/farago
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
 
+TODO: 
+
+documentation for custom callback path
+explain what comes in request.env['omniauth.auth'].hash
+load user data as extra_info check: https://github.com/zquestz/omniauth-google-oauth2
