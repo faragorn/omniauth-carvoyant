@@ -28,7 +28,7 @@ Rails.application.config.middleware.use OmniAuth::Builder do
 end
 ```
 
-You can now access the OmniAuth Google OAuth2 URL: `/auth/carvoyant`
+You can now access the OmniAuth Carvoyant OAuth2 URL: `/auth/carvoyant`
 
 ## Configuration
 
